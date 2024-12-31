@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahleatherese
 - 👀 I’m interested in math, and cats.
-- 🌱 I’m currently learning about Phyton, Java, and electrical circuits.
+- 🌱 I’m currently learning about Phyton, C++, Java, and electrical circuits.
 - 💞️ I’m not currently looking to collaborate..
 - 📫 Ahlea Therese Bamba in LinkedIn 
 - 😄 Pronouns: She/Her
